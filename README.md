@@ -1,8 +1,3 @@
-Perfect! Here's a comprehensive README.md for your GitHub repository:
-
----
-
-```markdown
 # Wav2Vec2 Polish Speech Recognition Fine-tuning
 
 A comprehensive implementation of fine-tuning Facebook's Wav2Vec2 model for Polish automatic speech recognition (ASR) with advanced techniques for preventing overfitting and improving performance.
@@ -39,7 +34,6 @@ The fine-tuning approach utilizes:
 ## 🚀 Quick Start
 
 ### Prerequisites
-```
 
 # Required libraries
 
